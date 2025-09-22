@@ -375,7 +375,7 @@ def user_input(user_q):
 def search_for_pdfs(query, num_results=5):
     search_url = "https://www.googleapis.com/customsearch/v1"
     cse_id = 'f79b6c79519ab4aeb'
-    api_key = 'AIzaSyAd70UU-1uvFQS1TPBjWnsq_sdVhSyDOGg'
+    api_key = os.getenv("GOOGLE_API_KEY")
    
     params = {
         'q': f"{query} annual public report filetype:pdf",
