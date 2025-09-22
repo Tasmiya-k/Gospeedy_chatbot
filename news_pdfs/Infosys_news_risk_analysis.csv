@@ -1,0 +1,9 @@
+Risk Category,Summary,Potential Impact,Likelihood,Mitigation Strategy
+Risk Category,Summary,Potential Impact,Likelihood,Mitigation Strategy
+Financial,Downgrades from multiple analysts and a relatively high PEG ratio suggest potential for lower-than-expected financial performance.,Medium,Medium,"Closely monitor financial performance, diversify revenue streams, improve cost efficiency."
+Financial,"While Infosys beat EPS estimates, revenue significantly missed expectations, indicating potential underlying issues.",Medium,Medium,"Investigate reasons for revenue shortfall, adjust strategic plans, improve sales forecasting accuracy."
+Reputational,Negative analyst ratings and fluctuating stock price can negatively impact investor confidence and the company's reputation.,Medium,Medium,"Proactive investor relations, transparent communication of financial performance and strategy."
+Financial,"High reliance on specific industry segments (e.g., Financial Services) creates vulnerability to sector-specific downturns.",Medium,Medium,Diversify client base across multiple industries and geographic locations.
+Operational,Failure to meet revenue expectations despite exceeding EPS targets indicates potential operational inefficiencies.,Medium,Medium,"Review and optimize operational processes, improve project management, enhance resource allocation."
+Regulatory,Exposure to regulatory changes in various geographic locations where Infosys operates could impact profitability and operations.,Low,Medium,"Establish a robust compliance program, monitor regulatory developments, engage with relevant regulatory bodies."
+Cybersecurity,"As a technology company, Infosys is vulnerable to cybersecurity breaches which could harm reputation and finances.",High,Medium,"Invest in robust cybersecurity infrastructure, implement regular security audits, and employee training."

@@ -1,0 +1,19 @@
+.env
+
+311env/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Environment variables
+.env
+
+# Compiled Python files
+*.pyc
+
+# Model and data files to exclude, add only if needed
+*.pkl
+*.pth
+
+Final_PDF/
